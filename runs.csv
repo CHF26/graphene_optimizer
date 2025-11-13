@@ -1,0 +1,13 @@
+run_id,date,feedstock,particle_size_mm,moisture_wtpct,catalyst_type,catalyst_wtpct,salt_carbon_ratio,carbonization_temp_C,carbonization_time_min,graphitization_temp_C,graphitization_time_min,heating_rate_Cpm,atmosphere,yield_pct,raman_id_ig,xrd_Lc_nm,notes
+run001,2025-11-01,maize_cob,0.5,3.0,Fe(NO3)3,5,3,500,60,800,60,5,Ar,62.5,0.95,3.4,example
+run002,2025-11-02,sawdust,1.0,4.0,FeCl3,3,1,450,60,750,30,5,N2,58.0,1.10,2.8,example
+run003,2025-11-03,bagasse,0.8,2.5,Fe(NO3)3,10,5,520,90,900,60,3,Ar,55.2,0.82,4.1,example
+run004,2025-11-04,maize_cob,0.3,2.0,FeCl3,1,3,480,60,700,15,2,Ar,67.0,1.20,2.5,example
+run005,2025-11-05,sawdust,0.6,3.5,Ni(NO3)2,5,3,500,45,820,60,5,N2,60.1,0.98,3.2,example
+run006,2025-11-06,bagasse,1.5,6.0,Fe(NO3)3,7,4,560,120,950,90,2,Ar,48.7,0.70,5.0,example
+run007,2025-11-07,maize_cob,0.4,2.0,FeCl3,5,3,510,60,820,30,4,Ar,64.3,0.88,3.6,example
+run008,2025-11-08,sawdust,0.7,3.2,Fe(NO3)3,2,1,430,30,700,15,6,N2,69.5,1.25,2.4,example
+run009,2025-11-09,bagasse,0.9,2.8,FeCl3,8,5,540,60,980,120,2,Ar,50.4,0.66,4.8,example
+run010,2025-11-10,maize_cob,0.5,3.2,Ni(NO3)2,4,3,495,60,800,45,5,N2,61.0,0.92,3.3,example
+run011,2025-11-11,sawdust,0.6,3.6,Fe(NO3)3,6,3,505,75,840,60,3,Ar,59.8,0.99,3.1,example
+run012,2025-11-12,bagasse,0.5,2.7,FeCl3,5,2,490,60,780,60,4,Ar,63.2,0.91,3.5,example
